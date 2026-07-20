@@ -35,3 +35,4 @@ Chúng ta sẽ tìm hiểu và cấu hình toàn bộ các dịch vụ từ giao
 10. [Chương 5.10: Khởi tạo API Gateway và liên kết](5.10-apigateway/)
 11. [Chương 5.11: Cấu hình Amazon Cognito làm Authorizer](5.11-cognito/)
 12. [Chương 5.12: Dọn dẹp tài nguyên trên AWS](5.12-cleanup/)
+13. [Chương 5.13: Kiểm thử Giao diện & Báo cáo Sản phẩm](5.13-web-interface/)

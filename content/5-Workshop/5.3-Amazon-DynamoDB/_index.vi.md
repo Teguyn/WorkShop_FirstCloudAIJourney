@@ -57,4 +57,4 @@ Trong phần này, chúng ta sẽ tiến hành tạo bảng Amazon DynamoDB và 
 
 5. Nhấn nút **Create index**. Yêu cầu tạo chỉ mục sẽ được gửi đi, và trạng thái của GSI lúc này sẽ là **Creating** và chuyển thành **Active** sau ít phút.
 
-   ![Tạo GSI thành công](/images/5-Workshop/5.2-Amazon-DynamoDB/6.png)
+   ![Tạo GSI thành công](/images/5-Workshop/5.3-Amazon-DynamoDB/6.png)

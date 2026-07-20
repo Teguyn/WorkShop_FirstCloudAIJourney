@@ -57,4 +57,4 @@ To support querying featured riddles, we will create a Global Secondary Index (G
 
 5. Click **Create index**. The request to create your index will be submitted, and the GSI status will be **Creating** and change to **Active** shortly.
 
-   ![GSI created successfully](/images/5-Workshop/5.2-Amazon-DynamoDB/6.png)
+   ![GSI created successfully](/images/5-Workshop/5.3-Amazon-DynamoDB/6.png)

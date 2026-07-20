@@ -35,3 +35,4 @@ You will learn how to design and configure all cloud layers from frontend web UI
 10. [Chapter 5.10: Create REST API on API Gateway](5.10-apigateway/)
 11. [Chapter 5.11: Configure Amazon Cognito as Authorizer](5.11-cognito/)
 12. [Chapter 5.12: Decommissioning & Cleanup Resources](5.12-cleanup/)
+13. [Chapter 5.13: Web Interface Testing & Product Report](5.13-web-interface/)
