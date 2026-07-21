@@ -6,12 +6,12 @@ chapter: false
 pre: " <b> 1.12. </b> "
 ---
 
-### Tuần 12: Tổng kết và Viết tài liệu Workshop lên trang cá nhân
+### Tuần 12: Kiểm thử, báo cáo sản phẩm End-to-End và chỉnh sửa Workshop cá nhân
 
-*   **Thời gian**: Tuần làm việc từ 06/07/2026 đến 10/07/2026.
-*   **Mục tiêu**: Biên soạn và hoàn thành tài liệu hướng dẫn kỹ thuật (Workshop) cho các dịch vụ cốt lõi, chuẩn bị hồ sơ báo cáo cuối khóa.
+*   **Thời gian**: Tuần làm việc từ 06/07 - 12/07/2026.
+*   **Mục tiêu**: Thực hiện kiểm thử đầu-cuối (End-to-End), biên soạn báo cáo nghiệm thu sản phẩm và hoàn thiện tài liệu các chương Workshop cá nhân trên nền tảng Hugo.
 *   **Công việc thực hiện**:
-    *   Biên soạn và cấu hình tài liệu thực hành (Workshop) chi tiết cho các dịch vụ: AWS Lambda, AWS IAM, và Amazon DynamoDB.
-    *   Cập nhật thông tin cá nhân và hoàn thiện báo cáo thực tập song ngữ trên nền tảng Hugo cá nhân.
-    *   Kiểm tra toàn bộ hệ thống liên kết, tính năng dịch thuật và hình ảnh hiển thị trên trang web.
-    *   Hoàn thành chương trình thực tập Bootcamp.
+    *   Thực hiện kiểm thử toàn diện đầu-cuối (End-to-End Integration Testing) cho ứng dụng AI Riddle Generator từ giao diện đến API Gateway, Lambda và Bedrock.
+    *   Biên soạn tài liệu báo cáo kỹ thuật và nghiệm thu sản phẩm hoàn chỉnh để sẵn sàng báo cáo.
+    *   Rà soát, chỉnh sửa và hoàn thiện nội dung các bài viết Workshop cá nhân (Workshop từ chương 5.1 đến 5.13) trên trang Hugo.
+    *   Hoàn tất các thủ tục bàn giao, dọn dẹp tài nguyên Cloud và tổng kết.

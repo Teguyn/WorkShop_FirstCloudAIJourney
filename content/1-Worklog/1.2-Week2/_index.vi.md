@@ -6,11 +6,10 @@ chapter: false
 pre: " <b> 1.2. </b> "
 ---
 
-### Tuần 2: Làm quen và học nội quy chương trình
+### Tuần 2: Tìm hiểu kỹ năng sinh tồn kỷ nguyên AI và tối ưu chi phí đám mây
 
-*   **Thời gian**: Tuần làm việc từ 27/04/2026 đến 03/05/2026.
-*   **Mục tiêu**: Làm quen với ban tổ chức chương trình First Cloud Journey (FCJ), nắm vững các nội quy, quy định, quy chuẩn đồ án và chính sách học tập để chuẩn bị cho quá trình thực hành.
+*   **Thời gian**: Tuần làm việc từ 27/04 - 03/05/2026.
+*   **Mục tiêu**: Nghiên cứu các chuyên đề cốt lõi về kỹ năng AI, kỹ nghệ gợi ý và tối ưu hóa chi phí.
 *   **Công việc thực hiện**:
-    *   Tham gia kết nối, làm quen với các anh/chị quản lý và thành viên trong chương trình First Cloud Journey.
-    *   Đọc và nghiên cứu kỹ tài liệu nội quy, quy định chung của chương trình.
-    *   Tìm hiểu sâu về quy định làm đồ án cuối khóa, các quy chuẩn kỹ thuật và các quy định xử lý vi phạm trong suốt kỳ thực tập.
+    *   Tổng hợp các chủ đề cốt lõi về kỹ năng sinh tồn trong kỷ nguyên AI, phương pháp học tập Dopamine, cách tối ưu hóa chi phí đám mây, và giới thiệu về Framework Bmad / kỹ nghệ gợi ý (Context Engineering).
+    *   Nghiên cứu các định hướng kiến trúc dự án thực tế do các diễn giả phân tích để chuẩn bị kiến thức nền tảng cho đồ án.

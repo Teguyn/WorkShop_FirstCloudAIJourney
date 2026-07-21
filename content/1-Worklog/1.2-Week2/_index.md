@@ -1,16 +1,15 @@
 ---
-title: "Week 2 Worklog"
+title: "Worklog Week 2"
 date: 2024-01-01
 weight: 2
 chapter: false
 pre: " <b> 1.2. </b> "
 ---
 
-### Week 2: Orientation & Program Guidelines Study
+### Week 2: Learn AI survival skills and cloud cost optimization
 
-*   **Duration**: From 27/04/2026 to 03/05/2026.
-*   **Objectives**: Get familiar with the First Cloud Journey (FCJ) organizers, grasp all program rules, regulations, project specifications, and compliance policies to prepare for the hands-on journey.
-*   **Tasks Done**:
-    *   Connected and got acquainted with the program managers and members of the First Cloud Journey.
-    *   Read and thoroughly studied the program's code of conduct and general regulations.
-    *   Researched the final project requirements, technical standards, and policy violation procedures to ensure compliance throughout the internship.
+*   **Date**: Work week from 27/04 - 03/05/2026.
+*   **Objective**: Study core topics on AI skills, context engineering, and cloud cost optimization.
+*   **Key Tasks Executed**:
+    *   Synthesized core topics on AI survival skills, the Dopamine learning method, cloud cost optimization, and introduced the Bmad Framework and context engineering.
+    *   Studied architectural directions of real projects analyzed by speakers to prepare foundational knowledge for the final project.

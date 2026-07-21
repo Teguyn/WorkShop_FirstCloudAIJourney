@@ -6,11 +6,11 @@ chapter: false
 pre: " <b> 1.11. </b> "
 ---
 
-### Tuần 11: Viết Blog và Cấu hình bảo mật Serverless trên AWS
+### Tuần 11: Biên soạn tài liệu thực hành Workshop và hoàn thiện báo cáo
 
-*   **Thời gian**: Tuần làm việc từ 29/06/2026 đến 05/07/2026.
-*   **Mục tiêu**: Tích hợp các dịch vụ bảo mật vào ứng dụng AI Riddle Generator và soạn thảo bài viết chia sẻ kỹ thuật.
+*   **Thời gian**: Tuần làm việc từ 29/06 - 05/07/2026.
+*   **Mục tiêu**: Viết tài liệu kỹ thuật cho các dịch vụ cốt lõi và kiểm thử tích hợp trên Hugo.
 *   **Công việc thực hiện**:
-    *   Triển khai và cấu hình AWS WAF chống DDoS, Cognito kiểm soát phiên làm việc, và phân quyền IAM tối giản (Least Privilege) cho Lambda.
-    *   Thiết lập CloudWatch Alarm và SNS để giám sát, cảnh báo lỗi ứng dụng/API Bedrock.
-    *   Soạn thảo và đăng tải bài viết chia sẻ kỹ thuật chuyên sâu về chủ đề **Kiến trúc bảo mật Serverless cho ứng dụng AI** lên group AWS Study Group VN.
+    *   Biên soạn và cấu hình tài liệu thực hành (Workshop) chi tiết cho các dịch vụ: AWS Lambda, AWS IAM, và Amazon DynamoDB.
+    *   Cập nhật thông tin cá nhân và hoàn thiện báo cáo thực tập song ngữ trên nền tảng Hugo cá nhân.
+    *   Kiểm tra toàn bộ hệ thống liên kết, tính năng dịch thuật và hình ảnh hiển thị trên trang web.

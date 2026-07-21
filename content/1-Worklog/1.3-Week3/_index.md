@@ -1,16 +1,16 @@
 ---
-title: "Week 3 Worklog"
+title: "Worklog Week 3"
 date: 2024-01-01
 weight: 3
 chapter: false
 pre: " <b> 1.3. </b> "
 ---
 
-### Week 3: Watching Knowledge-Sharing Event on YouTube
+### Week 3: Self-study core AWS services and research Serverless architecture
 
-*   **Duration**: From 04/05/2026 to 10/05/2026.
-*   **Objectives**: Watch the recorded knowledge-sharing event of the First Cloud Journey Bootcamp 2025 program on YouTube to absorb real-world experiences from industry speakers.
-*   **Tasks Done**:
-    *   Self-studied online by watching the recorded technical sharing session published on the program's YouTube channel.
-    *   Took notes and summarized core topics on career survival in the AI era, dopamine-driven learning, cloud cost optimization, and Bmad Framework / Context Engineering prompting techniques.
-    *   Studied project architecture patterns analyzed by the speakers to prepare foundational knowledge for the project.
+*   **Date**: Work week from 04/05 - 10/05/2026.
+*   **Objective**: Research core AWS cloud services and Bedrock API integration.
+*   **Key Tasks Executed**:
+    *   Self-studied theoretical introductions to core AWS services through the YouTube tutorial video series.
+    *   Researched the operating principles of Serverless architecture (API Gateway, Lambda, DynamoDB, S3) and hosting solution (AWS Amplify).
+    *   Learned how to call Generative AI APIs via Amazon Bedrock to apply to the riddle creation feature for personal/group projects.

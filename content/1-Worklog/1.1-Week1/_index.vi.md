@@ -6,11 +6,12 @@ chapter: false
 pre: " <b> 1.1. </b> "
 ---
 
-### Tuần 1: Liên kết thẻ Visa và làm lab AWS nhận credit
+### Tuần 1: Liên kết thẻ Visa nhận credit và kết nối ban đầu
 
-*   **Thời gian**: Tuần làm việc từ 19/04/2026 đến 26/04/2026 (ngày làm chính: 21/04/2026).
-*   **Mục tiêu**: Thiết lập tài khoản AWS cá nhân và hoàn thành các bài lab cơ bản để kích hoạt và nhận tín dụng thực hành (AWS Credit).
+*   **Thời gian**: Tuần làm việc từ 20/04 - 26/04/2026.
+*   **Mục tiêu**: Thiết lập tài khoản AWS cá nhân, hoàn thành lab cơ bản nhận credit và làm quen với chương trình.
 *   **Công việc thực hiện**:
-    *   Thực hiện liên kết thẻ Visa vào tài khoản AWS cá nhân để làm tài khoản kiểm thử/thực hành.
-    *   Hoàn thành 5 bài lab cơ bản trên hệ thống tự học của AWS.
-    *   Đăng ký nhận thành công 200$ credit khuyến khích từ AWS phục vụ học tập và nghiên cứu các dịch vụ đám mây.
+    *   Liên kết thẻ Visa vào tài khoản AWS và hoàn thành 5 bài lab cơ bản trên hệ thống tự học của AWS để nhận 200$ credit miễn phí.
+    *   Tham gia kết nối, làm quen với các anh/chị quản lý và thành viên trong chương trình First Cloud Journey.
+    *   Đọc và nghiên cứu kỹ tài liệu nội quy, quy định chung của chương trình.
+    *   Tìm hiểu sâu về quy định làm đồ án cuối khóa, các quy chuẩn kỹ thuật và các quy định xử lý vi phạm trong suốt kỳ thực tập.

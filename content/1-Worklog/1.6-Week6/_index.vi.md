@@ -6,11 +6,11 @@ chapter: false
 pre: " <b> 1.6. </b> "
 ---
 
-### Tuần 6: Thực hành VPC và VPN theo hướng dẫn YouTube
+### Tuần 6: Thực hành Lab mạng nâng cao, khởi tạo EC2 và dọn dẹp hệ thống
 
-*   **Thời gian**: Tuần làm việc từ 25/05/2026 đến 31/05/2026.
-*   **Mục tiêu**: Xem video hướng dẫn và tự thực hành cấu hình mạng (Amazon VPC, Subnet, Route Tables) và thiết lập AWS VPN Site-to-Site.
+*   **Thời gian**: Tuần làm việc từ 25/05 - 31/05/2026.
+*   **Mục tiêu**: Hoàn thành cấu hình mạng nâng cao với EC2 và quy trình thu hồi tài nguyên tránh chi phí.
 *   **Công việc thực hiện**:
-    *   Xem video hướng dẫn thực hành Lab Module 02 về mảng Networking đám mây trên YouTube.
-    *   Thực hành thiết lập mạng ảo Amazon VPC riêng, tạo Subnet và thiết lập bảng định tuyến (Route Tables) từ bài Lab03-01.1 đến bài Lab03-03.5.
-    *   Thực hiện cấu hình kết nối mạng bảo mật AWS VPN Site-to-Site theo đúng từng bước được hướng dẫn trên video YouTube.
+    *   Xem video hướng dẫn trên YouTube để thực hiện các bài lab mạng nâng cao còn lại thuộc Module 02.
+    *   Thực hành khởi tạo máy chủ ảo Amazon EC2 bên trong các Subnet cụ thể và thiết lập quy tắc bảo mật tường lửa Security Groups (Lab03-04.1).
+    *   Thực hiện đúng quy trình dọn dẹp hệ thống, thu hồi và xóa bỏ toàn bộ các tài nguyên thử nghiệm (Lab20-07) để tránh phát sinh chi phí phát sinh trên tài khoản cá nhân.

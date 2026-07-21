@@ -1,19 +1,16 @@
 ---
-title: "Week 8 Worklog"
+title: "Worklog Week 8"
 date: 2024-01-01
 weight: 8
 chapter: false
 pre: " <b> 1.8. </b> "
 ---
 
-### Week 8: Technology Research & System Architecture Design
+### Week 8: Define system use cases and configure workspace environments
 
-*   **Duration**: From 08/06/2026 to 14/06/2026.
-*   **Objectives**: Identify specific AWS services required for the group project and construct the initial system architecture diagram.
-*   **Tasks Done**:
-    *   Collaborated with team members to select cloud services: AWS Amplify for hosting, API Gateway + Lambda for serverless backend, Amazon Bedrock for AI generation, and DynamoDB for data storage.
-    *   Used **draw.io** to design the end-to-end system architecture, dividing it into distinct layers: Edge & Presentation, Authentication & API, Serverless Compute, and Data Persistence & Storage.
-    *   Exported and reviewed the architecture diagram with Bootcamp mentors for security and scalability improvements.
-
-### Designed Architecture Diagram:
-![System Architecture Diagram](/images/2-Proposal/Cau-Truc-Service-Du-An.jpg)
+*   **Date**: Work week from 08/06 - 14/06/2026.
+*   **Objective**: Identify core project business flows and delegate work packages.
+*   **Key Tasks Executed**:
+    *   Defined system use cases: teacher/parent registration, prompt-based AI riddle request, riddle feed display, and PDF/Word document export.
+    *   Drafted development roadmaps and allocated work packages within the team.
+    *   Set up shared team environments: Git Repository, AWS Sandbox accounts, and local workspaces.

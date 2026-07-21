@@ -1,16 +1,16 @@
 ---
-title: "Week 5 Worklog"
+title: "Worklog Week 5"
 date: 2024-01-01
 weight: 5
 chapter: false
 pre: " <b> 1.5. </b> "
 ---
 
-### Week 5: Practicing Lab Module 01 & Budgeting via YouTube Tutorials
+### Week 5: Practice Lab Module 02 Networking and AWS VPN
 
-*   **Duration**: From 18/05/2026 to 24/05/2026.
-*   **Objectives**: Follow step-by-step video tutorials on YouTube to complete Lab Module 01 (07-01 to 07-05) and configure AWS Budgets for cost control.
-*   **Tasks Done**:
-    *   Watched the Module 01 hands-on lab demonstration videos published in the YouTube Bootcamp series.
-    *   Executed Lab Module 01 (07-01 to 07-05) on the personal AWS console interface.
-    *   Configured cost alarms using AWS Budgets following the video walkthroughs to avoid exceeding free-tier resource allocations.
+*   **Date**: Work week from 18/05 - 24/05/2026.
+*   **Objective**: Build Amazon VPC virtual networking infrastructure and establish secure Site-to-Site VPN.
+*   **Key Tasks Executed**:
+    *   Watched cloud networking video tutorials for Lab Module 02 on YouTube.
+    *   Practiced configuring private Amazon VPC networks, creating subnets, and setting up Route Tables from Lab03-01.1 to Lab03-03.5.
+    *   Configured secure AWS VPN Site-to-Site network connections step-by-step according to the YouTube video instructions.

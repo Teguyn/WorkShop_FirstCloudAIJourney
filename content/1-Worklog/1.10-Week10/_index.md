@@ -1,17 +1,16 @@
 ---
-title: "Week 10 Worklog"
+title: "Worklog Week 10"
 date: 2024-01-01
 weight: 10
 chapter: false
 pre: " <b> 1.10. </b> "
 ---
 
-### Week 10: Frontend Web UI Development & AWS API Integration
+### Week 10: Configure system security and author technical post
 
-*   **Duration**: From 22/06/2026 to 28/06/2026.
-*   **Objectives**: Construct core presentation components (Web UI) and wire backend AWS services with operational API gateways.
-*   **Tasks Done**:
-    *   Designed the home dashboard layout, prompt configuration forms, and AI result display containers.
-    *   Created foundational AWS Lambda functions to intercept user requests and invoke Amazon Bedrock API prompts.
-    *   Integrated Amazon DynamoDB to log creation history and track metrics.
-    *   Committed source code to GitHub and resolved environment config sync issues with the group.
+*   **Date**: Work week from 22/06 - 28/06/2026.
+*   **Objective**: Deploy AWS WAF, Cognito, Least-Privilege IAM roles, and system monitoring.
+*   **Key Tasks Executed**:
+    *   Deployed and configured AWS WAF for DDoS protection, Cognito for user sessions, and minimized IAM roles for Lambda execution.
+    *   Set up CloudWatch Alarms and SNS triggers to monitor system exceptions and Bedrock API calls.
+    *   Drafted and posted a deep-dive technical article regarding Serverless Security architecture for GenAI web applications on AWS Study Group VN.

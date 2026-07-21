@@ -1,16 +1,16 @@
 ---
-title: "Week 11 Worklog"
+title: "Worklog Week 11"
 date: 2024-01-01
 weight: 11
 chapter: false
 pre: " <b> 1.11. </b> "
 ---
 
-### Week 11: Serverless Security Implementations & Technical Writing
+### Week 11: Write Workshop practical guides and finalize report
 
-*   **Duration**: From 29/06/2026 to 05/07/2026.
-*   **Objectives**: Integrate multi-layered security controls into the AI Riddle Generator and draft technical documentation.
-*   **Tasks Done**:
-    *   Configured AWS WAF rules, Amazon Cognito user session parameters, and restricted AWS IAM execution roles (Least Privilege) for Lambdas.
-    *   Set up operational alarms utilizing CloudWatch Metrics thresholds and Amazon SNS warning protocols.
-    *   Drafted and published a technical blog post detailing **Serverless Security Architectures for AI Applications** on the AWS Study Group VN platform.
+*   **Date**: Work week from 29/06 - 05/07/2026.
+*   **Objective**: Author technical lab manuals and verify bilingual site links on Hugo.
+*   **Key Tasks Executed**:
+    *   Authored and structured detailed Workshop guides for AWS Lambda, AWS IAM, and Amazon DynamoDB.
+    *   Updated personal information and finalized the bilingual internship report on the local Hugo site.
+    *   Tested all web link routing, language translation strings, and image rendering.

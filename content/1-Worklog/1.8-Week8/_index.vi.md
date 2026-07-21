@@ -6,14 +6,11 @@ chapter: false
 pre: " <b> 1.8. </b> "
 ---
 
-### Tuần 8: Nghiên cứu công nghệ dự án nhóm và Vẽ sơ đồ kiến trúc
+### Tuần 8: Xác định usecase hệ thống và thiết lập môi trường làm việc
 
-*   **Thời gian**: Tuần làm việc từ 08/06/2026 đến 14/06/2026.
-*   **Mục tiêu**: Định hình các dịch vụ cụ thể trên AWS sẽ sử dụng cho dự án nhóm và thiết kế sơ đồ kiến trúc hệ thống tổng quan.
+*   **Thời gian**: Tuần làm việc từ 08/06 - 14/06/2026.
+*   **Mục tiêu**: Xác định các luồng nghiệp vụ dự án và phân chia công việc trong nhóm.
 *   **Công việc thực hiện**:
-    *   Họp nhóm để thảo luận về cách phân chia dịch vụ: AWS Amplify cho Frontend, API Gateway + Lambda cho Backend, Bedrock xử lý sinh câu đố bằng AI, và DynamoDB lưu trữ.
-    *   Sử dụng công cụ **draw.io** để thiết kế sơ đồ kiến trúc chi tiết, phân chia rõ ràng các phân vùng: Edge & Presentation, Authentication & API, Serverless Compute, và Data Persistence & Storage.
-    *   Xuất sơ đồ kiến trúc và xin phản hồi từ người hướng dẫn (mentor).
-
-### Sơ đồ kiến trúc đã thiết kế:
-![Sơ đồ kiến trúc hệ thống](/images/2-Proposal/Cau-Truc-Service-Du-An.jpg)
+    *   Xác định các usecase chính của hệ thống: Đăng nhập phụ huynh/giáo viên, gửi chủ đề yêu cầu sinh câu đố, hiển thị danh sách câu đố do AI (Bedrock) tạo, xuất bản in PDF/Word.
+    *   Lên lộ trình phát triển và phân chia công việc trong nhóm.
+    *   Thiết lập môi trường làm việc chung: Git Repository, AWS Sandbox Accounts, và môi trường lập trình local.

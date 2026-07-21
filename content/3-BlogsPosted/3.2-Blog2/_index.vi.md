@@ -65,4 +65,5 @@ Bảo mật cho một ứng dụng Serverless tích hợp AI như AI Riddle Gene
 Thiết kế một kiến trúc bảo mật chuẩn chỉnh ngay từ đầu giúp ứng dụng của bạn vừa vận hành ổn định, vừa bảo vệ được tài nguyên AI có chi phí đắt đỏ, tạo nền tảng vững chắc để phát triển sản phẩm an toàn trên đám mây.
 
 ---
-**Nguồn tham khảo:** [Secure API Access with Amazon Cognito, Amazon API Gateway, and AWS Lambda](https://aws.amazon.com/blogs/compute/secure-api-access-with-amazon-cognito-federated-identities-amazon-cognito-user-pools-and-amazon-api-gateway/)
+>**Nguồn tham khảo:** [Secure API Access with Amazon Cognito, Amazon API Gateway, and AWS Lambda](https://aws.amazon.com/blogs/compute/secure-api-access-with-amazon-cognito-federated-identities-amazon-cognito-user-pools-and-amazon-api-gateway/)  
+> **Link bài viết trên Facebook:** [Facebook Post](https://www.facebook.com/share/p/1ENb8bUptS/)

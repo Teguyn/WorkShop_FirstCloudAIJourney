@@ -55,4 +55,5 @@ Securing a Serverless application integrated with AI like AI Riddle Generator is
 Designing a proper security architecture from the beginning helps your application run stably, protects expensive AI resources, and creates a solid foundation for safe product development on the cloud.
 
 ---
-**References:** [Secure API Access with Amazon Cognito, Amazon API Gateway, and AWS Lambda](https://aws.amazon.com/blogs/compute/secure-api-access-with-amazon-cognito-federated-identities-amazon-cognito-user-pools-and-amazon-api-gateway/)
+**References:** [Secure API Access with Amazon Cognito, Amazon API Gateway, and AWS Lambda](https://aws.amazon.com/blogs/compute/secure-api-access-with-amazon-cognito-federated-identities-amazon-cognito-user-pools-and-amazon-api-gateway/)  
+> **Link to Facebook Post:** [Facebook Post](https://www.facebook.com/share/p/1ENb8bUptS/)

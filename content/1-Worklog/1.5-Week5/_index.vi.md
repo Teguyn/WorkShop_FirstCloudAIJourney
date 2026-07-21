@@ -6,11 +6,11 @@ chapter: false
 pre: " <b> 1.5. </b> "
 ---
 
-### Tuần 5: Thực hành Lab Module 01 và Cảnh báo chi phí theo hướng dẫn YouTube
+### Tuần 5: Thực hành Lab Module 02 Networking và AWS VPN
 
-*   **Thời gian**: Tuần làm việc từ 18/05/2026 đến 24/05/2026.
-*   **Mục tiêu**: Xem video hướng dẫn và tự hoàn thành các bài lab thuộc Module 01 (từ 07-01 đến 07-05), thiết lập AWS Budgets để quản lý chi phí tài khoản Sandbox.
+*   **Thời gian**: Tuần làm việc từ 18/05 - 24/05/2026.
+*   **Mục tiêu**: Xây dựng hạ tầng mạng ảo Amazon VPC và kết nối bảo mật Site-to-Site.
 *   **Công việc thực hiện**:
-    *   Xem chuỗi video hướng dẫn thực hành Lab Module 01 trên YouTube để nắm bắt các bước thực thi.
-    *   Thực hiện các bài Lab Module 01 (từ 07-01 đến 07-05) trên bảng điều khiển AWS cá nhân.
-    *   Thiết lập cảnh báo chi phí bằng AWS Budgets theo hướng dẫn trong video để đảm bảo không vượt quá giới hạn ngân sách thực hành miễn phí của tài khoản.
+    *   Xem video hướng dẫn thực hành Lab Module 02 về mảng Networking đám mây trên YouTube.
+    *   Thực hành thiết lập mạng ảo Amazon VPC riêng, tạo Subnet và thiết lập bảng định tuyến (Route Tables) từ bài Lab03-01.1 đến bài Lab03-03.5.
+    *   Thực hiện cấu hình kết nối mạng bảo mật AWS VPN Site-to-Site theo đúng từng bước được hướng dẫn trên video YouTube.
